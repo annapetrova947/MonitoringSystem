@@ -1,0 +1,24 @@
+body {
+  background-color: #2b2d30;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+::-webkit-scrollbar {
+  width: 12px; /* ширина для вертикального скролла */
+
+  background-color: #1e1f22;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #2b2d30;
+  border-radius: 9em;
+  box-shadow: inset 1px 1px 10px gray;
+}
+
+.column {
+  width: calc(100% / 3);
+  max-height: 1080px;
+  padding: 10px 10px;
+}
+

@@ -1,0 +1,19 @@
+@import url(blocks/root/root.css);
+@import url(blocks/column/column.css);
+@import url(blocks/column/_nodes/column_nodes.css);
+@import url(blocks/info/info.css);
+@import url(blocks/info/__details/info__details.css);
+@import url(blocks/info/__details/_title/info__details_title.css);
+@import url(blocks/status/status.css);
+@import url(blocks/node/node.css);
+@import url(blocks/node/__description/node__description.css);
+@import url(blocks/node/__status/node__status.css);
+@import url(blocks/node/__metrics/node__metrics.css);
+@import url(blocks/group/group.css);
+@import url(blocks/group/__name/group__name.css);
+@import url(blocks/metrics/__admin/metrics__admin.css);
+@import url(blocks/metrics/__app/metrics__app.css);
+@import url(blocks/metrics/__choose/metrics__choose.css);
+@import url(blocks/metrics/__interface-name/metrics__interface-name.css);
+@import url(blocks/metrics/__node/metrics__node.css);
+
